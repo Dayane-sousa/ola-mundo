@@ -1,2 +1,2 @@
 # Olá, mundo!
-Primeiro repositório do curso git e github.
+Registro do aprendizados do curso git e github.
